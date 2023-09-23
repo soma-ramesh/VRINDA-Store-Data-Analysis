@@ -23,11 +23,15 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ----
 
 ## Questions❓:
-👉
-👉
-👉
-👉
-👉 :
+👉: Compare the sales and orders using a single chart and also find the month that has got the highest sales and orders ❔
+
+👉: Who purchased more in 2022❔ Men or Women ❔
+
+👉: What are the different order status in 2022 ❔
+
+👉: What are the top 5 states that contributed to maximum sales ❔
+
+👉 : Show the relation between age and gender based on the number of orders ❔
 
 
 
