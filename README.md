@@ -86,13 +86,16 @@ The following Excel features were incorporated.
 
 ✍ The **Adult** age group (31- 60 yrs) is contributing more orders (~55% of Total Orders).
 
-✍ The Maximum orders Returned in Amazon Channel. Set and Kurta categories are maximum returned items in overall orders.For more info see the below image.
+✍ The Maximum orders Returned in Amazon Channel. Set and Kurta categories are maximum returned items in overall orders.
+For more info see the below image.
 ![Channel analysis](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/06074493-2f15-4762-b81b-95123e6f7055)
 
-✍ Between Tamilnadu and Telangana , Maximum orders came from **Tamilnadu** , whereas Maximum sales came from **Telangana**.For more info see the below image. 
+✍ Between Tamilnadu and Telangana , Maximum orders came from **Tamilnadu** , whereas Maximum sales came from **Telangana**.
+For more info see the below image. 
 ![Orders by Top 10 States](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/8479d2f1-3407-452e-86d7-aed85971a16f)
 
-✍ Based on the ordered Quantity, in **Set** Category **M**, in **Kurta** Category **L** are the most selling sizes.For more info see the below image.
+✍ Based on the ordered Quantity, in **Set** Category **M**, in **Kurta** Category **L** are the most selling sizes.
+For more info see the below image.
 ![Category wise most selling size](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/a8b3b3be-23c5-42c1-a754-ff7b0cf4b464)
 
 
