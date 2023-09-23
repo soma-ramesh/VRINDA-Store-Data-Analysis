@@ -55,7 +55,17 @@ The following Excel features were incorporated.
 
 
 The below image shows that the raw data needs to be cleaned.
-![Uploading Raw Data.JPG…]()
+![Raw Data](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/4fca7106-bf34-4c12-997c-9799ff3ca6fc)
+
+
+After cleaning and formatted the data, the data set looks like below image and its ready for analysis.
+![Cleaned Data](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/802214b4-b89d-49b7-9efb-080ae1398f50)
+
+
+
+# Dashboard
+
+
 
 
 
