@@ -99,6 +99,7 @@ For more info see the below image.
 
 ✍ Based on the ordered Quantity, in **Set** Category **M**, in **Kurta** Category **L** are the most selling sizes.
 For more info see the below image.
+
 ![Category wise most selling size](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/a8b3b3be-23c5-42c1-a754-ff7b0cf4b464)
 
 
