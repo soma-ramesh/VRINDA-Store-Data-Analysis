@@ -57,18 +57,26 @@ The following Excel features were incorporated.
 👉The below image shows that the raw data needs to be cleaned.
 ![Raw Data](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/4fca7106-bf34-4c12-997c-9799ff3ca6fc)
 
-
+----
 👉After cleaning and formatted the data, the data set looks like below image and its ready for analysis.
 ![Cleaned Data](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/802214b4-b89d-49b7-9efb-080ae1398f50)
 
 
-
+-----
 👉# Dashboard
 
 ![Dashboard](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/12c5477b-3d0f-4b55-b41f-ce106988bef6)
 
 **Click the below link for Dynamic Dashboard**
 [Vrinda Store Data Analysis.xlsx](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/files/12706941/Vrinda.Store.Data.Analysis.xlsx)
+
+-----
+
+👉# Key Insights
+
+✍ In the year 2022, the overall **Total Orders are 31047** , **Total Sales nearly ~ 21.18 Millions** in Indian Currency and **Total Units Sold are 31237**.
+
+✍ Maximum Orders(2819) and Maximum Sales(~ 1.93 Millions in INR) happened in the month of **March**.  Minimum Orders(2383) and minimum Sales(~ 1.62 Millions in INR) happened in the month of **November**
 
 
 
