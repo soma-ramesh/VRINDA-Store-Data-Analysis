@@ -102,7 +102,8 @@ For more info see the below image.
 
 
 # Note:
-📍 The Orders(**Total Orders**) and the Ordered Quantity(**Total Units**) are not same.
+The Orders(**Total Orders**) and the Ordered Quantity(**Total Units**) are not same.
+
 ---
 # Final Conclusion:
 To improve sales of Vrinda Store, customers of the age group **Teen** (18 to 20), **Young**(21 to 30) must be targeted by showing ads/offers/coupons available on all Channels(**Amazon, Myntra, Flipkart...**)
