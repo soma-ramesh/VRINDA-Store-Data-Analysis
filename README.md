@@ -54,16 +54,22 @@ The following Excel features were incorporated.
 -----
 
 
-The below image shows that the raw data needs to be cleaned.
+👉The below image shows that the raw data needs to be cleaned.
 ![Raw Data](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/4fca7106-bf34-4c12-997c-9799ff3ca6fc)
 
 
-After cleaning and formatted the data, the data set looks like below image and its ready for analysis.
+👉After cleaning and formatted the data, the data set looks like below image and its ready for analysis.
 ![Cleaned Data](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/802214b4-b89d-49b7-9efb-080ae1398f50)
 
 
 
-# Dashboard
+👉# Dashboard
+
+![Dashboard](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/12c5477b-3d0f-4b55-b41f-ce106988bef6)
+
+**Click the below link for Dynamic Dashboard**
+[Vrinda Store Data Analysis.xlsx](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/files/12706941/Vrinda.Store.Data.Analysis.xlsx)
+
 
 
 
