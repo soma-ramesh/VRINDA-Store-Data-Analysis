@@ -23,6 +23,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ----
 
 ## Questions❓:
+
 👉: Compare the sales and orders using a single chart and also find the month that has got the highest sales and orders ❔
 
 👉: Who purchased more in 2022❔ Men or Women ❔
@@ -31,8 +32,30 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 👉: What are the top 5 states that contributed to maximum sales ❔
 
-👉 : Show the relation between age and gender based on the number of orders ❔
+👉: Show the relation between age and gender based on the number of orders ❔
 
+👉: And many more Questions❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔❔
+
+----
+
+
+# Skills Used:
+The following Excel features were incorporated.
+1. Data Cleaning,
+2. Data Format,
+3. Pivot Table
+4. Key Performance Indicator(KPI),
+5. Charts (Column chart, Pie chart, Doughnut Chart, Combo chart)
+6. Slicers
+7. Filters
+8. Dynamic Dashboard
+
+
+-----
+
+
+The below image shows that the raw data needs to be cleaned.
+![Uploading Raw Data.JPG…]()
 
 
 
