@@ -70,8 +70,8 @@ The following Excel features were incorporated.
 
 **Click the below link for Dynamic Dashboard**
 
+[Vrinda Store Data Analysis.xlsx](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/files/12707140/Vrinda.Store.Data.Analysis.xlsx)
 
-[Vrinda Store Data Analysis.xlsx](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/files/12706941/Vrinda.Store.Data.Analysis.xlsx)
 
 -----
 
