@@ -18,7 +18,8 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 ---
 
 ## Dataset used:
-[Vrinda Store Data Analysis.xlsx](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/files/12706250/Vrinda.Store.Data.Analysis.xlsx)
+[Vrinda Store Data.xlsx](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/files/12707117/Vrinda.Store.Data.xlsx)
+
 
 ----
 
