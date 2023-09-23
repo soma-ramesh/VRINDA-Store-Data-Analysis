@@ -72,13 +72,25 @@ The following Excel features were incorporated.
 
 -----
 
-👉# Key Insights
+👉 # Key Insights
 
 ✍ In the year 2022, the overall **Total Orders are 31047** , **Total Sales nearly ~ 21.18 Millions** in Indian Currency and **Total Units Sold are 31237**.
 
-✍ Maximum Orders(2819) and Maximum Sales(~ 1.93 Millions in INR) happened in the month of **March**.  Minimum Orders(2383) and minimum Sales(~ 1.62 Millions in INR) happened in the month of **November**
+✍ Maximum Orders(2819) and Maximum Sales(~ 1.93 Millions in INR) happened in the month of **March**.  Minimum Orders(2383) and minimum Sales(~ 1.62 Millions in INR) happened in the month of **November**.
 
+✍ Women occupied first position in ordering products, which is **69% of Total Oders** and remaining by Men.
 
+✍ The maximum number of orderes came from **Amazon**, **Myntra** and **Flipkart** channels.
+
+✍ **Maharashtra, Karnataka, Uttar Pradesh, **Telangana** and **Tamilnadu** are the Top5 States that contributed to maximum sales.
+
+✍ The **Adult** age group (30- 60 yrs) is contributing more orders (~55% of Total Orders).
+
+✍ The Maximum orders Returned in Amazon Channel. Set and Kurta categories are maximum returned items in overall orders. For more info see the below image
+![Channel analysis](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/06074493-2f15-4762-b81b-95123e6f7055)
+
+✍  Between Tamilnadu and Telangana , Maximum orders came from **Tamilnadu** , whereas Maximum sales came from **Telangana**. For more info see the below image 
+![Orders by Top 10 States](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/8479d2f1-3407-452e-86d7-aed85971a16f)
 
 
 
