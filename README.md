@@ -66,6 +66,7 @@ The following Excel features were incorporated.
 -----
 # Dashboard
 
+![Dashboard](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/19afda34-5ec5-4979-bbca-f7d40921cb57)
 
 
 
