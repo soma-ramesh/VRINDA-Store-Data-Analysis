@@ -84,7 +84,7 @@ The following Excel features were incorporated.
 
 ✍ **Maharashtra**, **Karnataka**, **Uttar Pradesh**, **Telangana** and **Tamilnadu** are the Top5 States that contributed to maximum sales.
 
-✍ The **Adult** age group (30- 60 yrs) is contributing more orders (~55% of Total Orders).
+✍ The **Adult** age group (31- 60 yrs) is contributing more orders (~55% of Total Orders).
 
 ✍ The Maximum orders Returned in Amazon Channel. Set and Kurta categories are maximum returned items in overall orders.For more info see the below image.
 ![Channel analysis](https://github.com/soma-ramesh/VRINDA-Store-Data-Analysis/assets/143477687/06074493-2f15-4762-b81b-95123e6f7055)
@@ -97,7 +97,11 @@ The following Excel features were incorporated.
 
 
 # Note:
-📍 The Number of Orders(**Total Orders**) and the Number of Ordered Quantity(**Total Units**) are not same.
+📍 The Orders(**Total Orders**) and the Ordered Quantity(**Total Units**) are not same.
+---
+# Final Conclusion:
+To improve sales of Vrinda Store, customers of the age group **Teen** (18 to 20), **Young**(21 to 30) must be targeted by showing ads/offers/coupons available on all Channels(**Amazon, Myntra, Flipkart...**)
+for all the Categories(**Set, Kurta, Top, Saree....**).
 
 
 
