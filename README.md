@@ -42,10 +42,10 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 # Skills Used:
 The following Excel features were incorporated.
-1. Data Cleaning,
-2. Data Format,
+1. Data Cleaning
+2. Data Format
 3. Pivot Table
-4. Key Performance Indicator(KPI),
+4. Key Performance Indicator(KPI)
 5. Charts (Column chart, Pie chart, Doughnut Chart, Combo chart)
 6. Slicers
 7. Filters
