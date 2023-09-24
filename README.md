@@ -83,9 +83,9 @@ The following Excel features were incorporated.
 
 ✍ Maximum Orders(2819) and Maximum Sales(~ 1.93 Millions in INR) happened in the month of **March**. Minimum Orders(2383) and minimum Sales(~ 1.62 Millions in INR) happened in the month of **November**.
 
-✍ **Women** occupied first position in ordering products, which is **69% of Total Oders** and remaining orders by Men.
+✍ **Women** occupied first position in ordering products, which is **69% of Total Orders** and the remaining orders by Men.
 
-✍ The maximum number of orderes came from **Amazon**, **Myntra** and **Flipkart** channels.
+✍ The maximum number of orders came from **Amazon**, **Myntra** and **Flipkart** channels.
 
 ✍ **Maharashtra**, **Karnataka**, **Uttar Pradesh**, **Telangana** and **Tamilnadu** are the Top5 States that contributed to maximum sales.
 
